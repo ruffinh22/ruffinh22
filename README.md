@@ -1,5 +1,4 @@
 - 👋 Hi everyone !
-![5f9c9d0f740569d1a4ca35a8](https://user-images.githubusercontent.com/110920067/191142794-20f4fc75-11db-41dc-8e4a-e2dd8b5dc7da.jpg)
 
 [![MasterHead](https://user-images.githubusercontent.com/110920067/191142794-20f4fc75-11db-41dc-8e4a-e2dd8b5dc7da.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ruffin HOUNSOUNNON</h1>
