@@ -33,7 +33,7 @@
 <a href="https://instagram.com/hounsounnonruffin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hounsounnonruffin" height="30" width="40" /></a>
 <a href="https://discord.gg/9941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9941" height="30" width="40" /></a>
 <a href="https://wa.me/22994509844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="9941" height="30" width="40" /></a>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 </p>
 
 
