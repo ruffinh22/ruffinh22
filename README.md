@@ -1,5 +1,5 @@
 - 👋 Hi everyone !
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 [![MasterHead](https://user-images.githubusercontent.com/110920067/191142794-20f4fc75-11db-41dc-8e4a-e2dd8b5dc7da.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ruffin HOUNSOUNNON</h1>
 <h3 align="center">An Udacity certified Full Stack deloper,I'm an Conservationist and a Software Engineer in training</h3>
@@ -33,6 +33,7 @@
 <a href="https://instagram.com/hounsounnonruffin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hounsounnonruffin" height="30" width="40" /></a>
 <a href="https://discord.gg/9941" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9941" height="30" width="40" /></a>
 <a href="https://wa.me/22994509844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="9941" height="30" width="40" /></a>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </p>
 
 
